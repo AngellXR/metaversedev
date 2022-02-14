@@ -8,13 +8,17 @@
 
 ## About
 
-Metaversity is an open source project dedicated to helping people become new or improved metaverse creators.
+Metaversity is an open source project dedicated to helping people become new or improved metaverse creators. AngellXR is incubating this effort collaboratively with other creators, maintainers, and teams. This effort has been on hold for the new year, and should resume once there is more interest and availability of volunteers.
 
 ### How to get involved 
 
 We used to meet every other Monday at 22:00 UTC :calendar: add these events to your [google calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=aHJlaW9iM2oyOG43Y2xtb2owcXVpYzA5MHBfMjAyMTEyMjBUMjIwNTAwWiBqZXNzZUBhbmdlbGx4ci5jb20&tmsrc=jesse%40angellxr.com&scp=ALL)
 
 We use Github to self organize around github [milestones](https://github.com/AngellXR/metaversity/milestones) and [discussions](https://github.com/AngellXR/metaversity/discussions).
+
+Angell owns the metaverse.dev domain, how might we leverage this for good? 
+
+One of our key assets for this effort is metaverse.dev, which we believe should be used for an open source knowledge sharing resource. How can we make it easier for people to achieve their goal of becoming a Metaverse creator? How can we share what we have learned, and guide others along the way? How can we ensure that the content we share is sustainably produced, and managed by the community rather than a small bottleneck? 
 
 ## :bulb: Why are we here? 
 
