@@ -1,4 +1,4 @@
-# Metaversity Readme
+# Metaverse.dev Readme
 
 [![hackmd-github-sync-badge](https://hackmd.io/dLAAQ53zQoeaoA3RYt5D3w/badge)](https://hackmd.io/dLAAQ53zQoeaoA3RYt5D3w)
 
@@ -8,13 +8,13 @@
 
 ## About
 
-Metaversity is an open source project dedicated to helping people become new or improved metaverse creators. AngellXR is incubating this effort collaboratively with other creators, maintainers, and teams. This effort has been on hold for the new year, and should resume once there is more interest and availability of volunteers.
+Metaverse.dev is an open source project dedicated to helping people become new or improved metaverse creators. AngellXR is incubating this effort collaboratively with other creators, maintainers, and teams. This effort has been on hold for the new year, and should resume once there is more interest and availability of volunteers.
 
 ### How to get involved 
 
 We used to meet every other Monday at 22:00 UTC :calendar: add these events to your [google calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=aHJlaW9iM2oyOG43Y2xtb2owcXVpYzA5MHBfMjAyMTEyMjBUMjIwNTAwWiBqZXNzZUBhbmdlbGx4ci5jb20&tmsrc=jesse%40angellxr.com&scp=ALL)
 
-We use Github to self organize around github [milestones](https://github.com/AngellXR/metaversity/milestones) and [discussions](https://github.com/AngellXR/metaversity/discussions).
+We use Github to self organize around github [milestones](https://github.com/AngellXR/metaversedev/milestones) and [discussions](https://github.com/AngellXR/metaversedev/discussions).
 
 Angell owns the metaverse.dev domain, how might we leverage this for good? 
 
