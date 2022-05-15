@@ -2,9 +2,10 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/dLAAQ53zQoeaoA3RYt5D3w/badge)](https://hackmd.io/dLAAQ53zQoeaoA3RYt5D3w)
 
-###### tags: `metaversity`
+###### tags: `metaversedev`
 
 - [OMI Github Strategy](https://hackmd.io/@mrmetaverse/omi-github-process)
+- :speaking_head: [AngellXR Discord](https://discord.gg/BJHQP5Pwtf)
 
 ## About
 
