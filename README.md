@@ -13,7 +13,7 @@ Metaverse.dev is an open source project dedicated to helping people become new o
 
 ### How to get involved 
 
-We meet on the first Monday of every month at 21:05 UTC :calendar: add these events to your [google calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDMwbjVvNm1oMnN2ajZvZm9oZzA1djUyNDBfMjAyMjA0MDRUMjEwNTAwWiBqZXNzZUBhbmdlbGx4ci5jb20&tmsrc=jesse%40angellxr.com&scp=ALL)
+We meet on the second* Monday of every month at 21:05 UTC :calendar: add these events to your [google calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDMwbjVvNm1oMnN2ajZvZm9oZzA1djUyNDBfMjAyMjA0MDRUMjEwNTAwWiBqZXNzZUBhbmdlbGx4ci5jb20&tmsrc=jesse%40angellxr.com&scp=ALL)
 
 We use Github to self organize around github [milestones](https://github.com/AngellXR/metaversedev/milestones) and [discussions](https://github.com/AngellXR/metaversedev/discussions).
 
