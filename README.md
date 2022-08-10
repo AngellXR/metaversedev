@@ -17,8 +17,6 @@ We meet on the second* Monday of every month at 21:05 UTC :calendar: add these e
 
 We use Github to self organize around github [milestones](https://github.com/AngellXR/metaversedev/milestones) and [discussions](https://github.com/AngellXR/metaversedev/discussions).
 
-Angell owns the metaverse.dev domain, how might we leverage this for good? 
-
 One of our key assets for this effort is metaverse.dev, which we believe should be used for an open source knowledge sharing resource. How can we make it easier for people to achieve their goal of becoming a Metaverse creator? How can we share what we have learned, and guide others along the way? How can we ensure that the content we share is sustainably produced, and managed by the community rather than a small bottleneck? 
 
 ## :bulb: Why are we here? 
@@ -44,10 +42,8 @@ Eventually we will have more options for metaverse contributors. Beyond develope
 
 ### Objective I: Increase the number of Metaverse contributors and creators. 
 ### Objective II: Organically create sustainable value
+Encourage people to tell their stories! How to use V-Sekai, how to become a Webaverse Developer, etc. 
 ### Objective III: Launch first curriculums* 
-KR: Craft 3 journey maps of people becoming metaverse creators
-KR: Establish curriculum for each archetype. 
 
 
 
-Relevant: 
