@@ -1,6 +1,6 @@
 # Metaverse.dev Readme
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![hackmd-github-sync-badge](https://hackmd.io/dLAAQ53zQoeaoA3RYt5D3w/badge)](https://hackmd.io/dLAAQ53zQoeaoA3RYt5D3w)
@@ -63,6 +63,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://alton.tech"><img src="https://avatars.githubusercontent.com/u/63426722?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jesse Alton</b></sub></a><br /><a href="#ideas-mrmetaverse" title="Ideas, Planning, & Feedback">🤔</a> <a href="#business-mrmetaverse" title="Business development">💼</a></td>
     <td align="center"><a href="http://msub2.com"><img src="https://avatars.githubusercontent.com/u/70986246?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel Adams</b></sub></a><br /><a href="#projectManagement-msub2" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/fire"><img src="https://avatars.githubusercontent.com/u/32321?v=4?s=100" width="100px;" alt=""/><br /><sub><b>K. S. Ernest (iFire) Lee</b></sub></a><br /><a href="#ideas-fire" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/shaw"><img src="https://avatars.githubusercontent.com/u/134453?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shaw</b></sub></a><br /><a href="#ideas-Shaw" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
