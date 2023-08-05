@@ -8,7 +8,7 @@ resources:
 website:
   site-url: https://AngellXR.github.io/metaversedev
   repo-url: https://github.com/AngellXR/metaversedev
-  repo-branch: master
+  repo-branch: main
   repo-actions: edit
   title: Metaverse.dev
   page-navigation: true
