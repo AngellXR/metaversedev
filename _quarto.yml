@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+
+resources:
+  - docs/resolutions/attachments
+
+website:
+  site-url: https://AngellXR.github.io/metaversedev
+  repo-url: https://github.com/AngellXR/metaversedev
+  repo-branch: master
+  repo-actions: edit
+  title: Metaverse.dev
+  page-navigation: true
+  navbar:
+    logo-alt: metaversedev
+    background: primary
+    search: true
+    left:
+      - text: "Changes"
+        file: changelog.qmd
+      - text: "Resolutions"
+        file: resolutions.qmd
+  page-footer:
+    right:
+      - icon: github
+        href: https://github.com/AngellXR/metaversedev
+
+format:
+  html:
+    toc: true
+    theme:
+      light: flatly
+      dark: darkly
+
+filters:
+  - quarto
+
+freeze: true
+
+editor: visual
