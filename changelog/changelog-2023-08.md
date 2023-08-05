@@ -4,6 +4,8 @@
 
 ### Added
 
+Posted a quarto based website for metaversedev.
+
 ### Changed
 
 ### Fixed
