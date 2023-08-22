@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "changelog/changelog-2023-08.html",
-    "href": "changelog/changelog-2023-08.html",
-    "title": "Metaversedev Changelog - August 2023",
+    "objectID": "resolutions.html",
+    "href": "resolutions.html",
+    "title": "Metaverse.dev Resolutions",
     "section": "",
-    "text": "Posted a quarto based website for metaversedev.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis project adheres to Semantic Versioning.\n\n\n\n\n\nNot applicable for this month.\n\nNote: This changelog has been compiled based on the updates provided. For more detailed information, please refer to the specific issues or pull requests in the respective repositories."
-  },
-  {
-    "objectID": "changelog/changelog-2023-08.html#unreleased",
-    "href": "changelog/changelog-2023-08.html#unreleased",
-    "title": "Metaversedev Changelog - August 2023",
-    "section": "",
-    "text": "Posted a quarto based website for metaversedev.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis project adheres to Semantic Versioning."
-  },
-  {
-    "objectID": "changelog/changelog-2023-08.html#previous-releases",
-    "href": "changelog/changelog-2023-08.html#previous-releases",
-    "title": "Metaversedev Changelog - August 2023",
-    "section": "",
-    "text": "Not applicable for this month.\n\nNote: This changelog has been compiled based on the updates provided. For more detailed information, please refer to the specific issues or pull requests in the respective repositories."
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n\n\n\n\n\n\nTitle\n\n\n\n\n\n\n\n\nResolving a Metaverse Limitation Template\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -49,13 +35,6 @@
     "text": "Thanks to all contributors! This project follows the all-contributors specification. All contributions are welcome. Let’s build the Metaverse together!"
   },
   {
-    "objectID": "resolutions.html",
-    "href": "resolutions.html",
-    "title": "Metaverse.dev Resolutions",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n\n\n\n\n\n\nTitle\n\n\n\n\n\n\n\n\nResolving a Metaverse Limitation Template\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "changelog.html",
     "href": "changelog.html",
     "title": "Changes to Metaverse.dev",
@@ -82,5 +61,26 @@
     "title": "Resolving a Metaverse Limitation Template",
     "section": "",
     "text": "metaversedev"
+  },
+  {
+    "objectID": "changelog/changelog-2023-08.html",
+    "href": "changelog/changelog-2023-08.html",
+    "title": "Metaversedev Changelog - August 2023",
+    "section": "",
+    "text": "Posted a quarto based website for metaversedev.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis project adheres to Semantic Versioning.\n\n\n\n\n\nNot applicable for this month.\n\nNote: This changelog has been compiled based on the updates provided. For more detailed information, please refer to the specific issues or pull requests in the respective repositories."
+  },
+  {
+    "objectID": "changelog/changelog-2023-08.html#unreleased",
+    "href": "changelog/changelog-2023-08.html#unreleased",
+    "title": "Metaversedev Changelog - August 2023",
+    "section": "",
+    "text": "Posted a quarto based website for metaversedev.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis project adheres to Semantic Versioning."
+  },
+  {
+    "objectID": "changelog/changelog-2023-08.html#previous-releases",
+    "href": "changelog/changelog-2023-08.html#previous-releases",
+    "title": "Metaversedev Changelog - August 2023",
+    "section": "",
+    "text": "Not applicable for this month.\n\nNote: This changelog has been compiled based on the updates provided. For more detailed information, please refer to the specific issues or pull requests in the respective repositories."
   }
 ]
